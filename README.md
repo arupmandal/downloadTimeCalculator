@@ -7,7 +7,7 @@ built using HTML CSS and JavaScript!
 
 ## Demo
 
-[Demo Site](https://adithyapaib.github.io/downloadTimeCalculator/)
+[Demo Site](https://arupmandal.me/downloadTimeCalculator/)
 
 # Screenshot
 ![image](https://user-images.githubusercontent.com/37355997/135632298-28710886-41df-4c88-92c5-b32658414e26.png)
@@ -44,6 +44,7 @@ Javascript, HTML, CSS...etc
 ## Authors
 
 - [@adithyapaib](https://github.com/adithyapaib)
+- [@arupmandal](https://github.com/arupmandal)
 
 ## Contributing
 
